@@ -35,5 +35,5 @@ __Always answer to the people__; if you have a large list of emails without revi
 
 
 
-
+http://blog.sukria.net/2012/01/06/the-10-rules-of-the-pragmatic-programmer/
 
